@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecgalloway.github.io/react-todo-project/static/css/main.d80d4b65.css",
+    "main.js": "/ecgalloway.github.io/react-todo-project/static/js/main.21952f41.js",
+    "index.html": "/ecgalloway.github.io/react-todo-project/index.html",
+    "main.d80d4b65.css.map": "/ecgalloway.github.io/react-todo-project/static/css/main.d80d4b65.css.map",
+    "main.21952f41.js.map": "/ecgalloway.github.io/react-todo-project/static/js/main.21952f41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80d4b65.css",
+    "static/js/main.21952f41.js"
+  ]
+}
